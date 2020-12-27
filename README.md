@@ -6,7 +6,7 @@ Hereby The Login Page Designed In A Manner Particulary For The Dependencies Of T
 
 First, go to the XAMPP installation directory and open the XAMPP folder and follow the below steps same:
 
-1. Go to the (C:\xampp\php) and open the php.ini file then find the mail function by scrolling down or simply press ctrl+f to search directly then find the following lines and pass these values:
+1. Go to the (C:\xampp\php) and open the php.ini file then find the mail function by scrolling down or simply press ctrl+f to search directly then find the following lines of the source code given in https://github.com/CiyaKhan/Configure-XAMPP-To-Send-Mail/blob/main/php.ini and pass those values.
 That's all for this file, save the file by pressing ctrl+s and close.
 
 2. Now, go the (C:\xampp\sendmail) and open the sendmail.ini  then find sendmail by scrolling down or press ctrl+f to search directly then find the lines and pass these values:
