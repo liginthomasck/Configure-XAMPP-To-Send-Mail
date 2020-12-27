@@ -9,10 +9,10 @@ First, go to the XAMPP installation directory and open the XAMPP folder and foll
 1. Go to the (C:\xampp\php) and open the php.ini file then find the mail function by scrolling down or simply press ctrl+f to search directly then find the following lines of the source code given in https://github.com/CiyaKhan/Configure-XAMPP-To-Send-Mail/blob/main/php.ini and pass those values.
 That's all for this file, save the file by pressing ctrl+s and close.
 
-2. Now, go the (C:\xampp\sendmail) and open the sendmail.ini  then find sendmail by scrolling down or press ctrl+f to search directly then find the lines and pass these values:
+2. Now, go the (C:\xampp\sendmail) and open the sendmail.ini  then find sendmail by scrolling down or press ctrl+f to search directly then find the following lines of the source code given in https://github.com/CiyaKhan/Configure-XAMPP-To-Send-Mail/blob/main/sendmail.ini and pass those values.
 That's all for this file, save the file by pressing ctrl+s and close.
 
-Now, you're done with the required changes in these files. To send mail using Gmail paste the following codes in your PHP file.
+Now, you're done with the required changes in these files. To send mail using Gmail paste the following codes given in  into your PHP file.
 
 Important note: If your mail isn't sent and you got a warning or error. Please configure your google account security as "Less secure apps". To configure it:
 - Go to your Google account then click on the Security tab and scroll down, there you can see the Less secure app access panel, Simply turn on that. This panel only shows if you haven't enabled 2-Step Verification.
