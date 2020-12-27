@@ -14,7 +14,7 @@ That's all for this file, save the file by pressing ctrl+s and close.
 
 3. Now, you're done with the required changes in these files. To send mail using Gmail paste the following codes given in https://github.com/CiyaKhan/Configure-XAMPP-To-Send-Mail/blob/main/configure.php into your PHP file.
 
-#### Important note: If your mail isn't sent and you got a warning or error. Please configure your google account security as "Less secure apps". To configure it:
+##### Important note: If your mail isn't sent and you got a warning or error. Please configure your google account security as "Less secure apps". To configure it:
 - Go to your Google account then click on the Security tab and scroll down, there you can see the Less secure app access panel, Simply turn on that. This panel only shows if you haven't enabled 2-Step Verification.
 - If you're getting an error as a password is wrong then simply go to the sendmail.ini file and put the correct password of your that Gmail account which you've provided in sendmail_from.
 
