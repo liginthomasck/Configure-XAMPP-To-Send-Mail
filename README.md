@@ -21,5 +21,5 @@ That's all for this file, save the file by pressing ctrl+s and close.
 ## Key Feature
 The Modern Applications User Interface Is Fully Deployed To Developed The Login Page.
 
-###### Developers Support : Zanck Pvt.Ltd.
+
 _developers support @ liginthomasck@pm.me_
